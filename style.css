@@ -5,7 +5,7 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-  background: #388E3C;
+  background: #000000;
 }
 
 ul {
@@ -31,7 +31,7 @@ h2 {
 }
 
 .accordion-menu li.open .dropdownlink {
-  color: #CDDC39;
+  color: #19d22e;
 }
 .accordion-menu li.open .dropdownlink .fa-chevron-down {
   transform: rotate(180deg);
