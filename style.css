@@ -71,6 +71,7 @@ h2 {
 .submenuItems {
   display: none;
   background: #C8E6C9;
+  position:relative;
 }
 .submenuItems li {
   border-bottom: 1px solid #B6B6B6;
